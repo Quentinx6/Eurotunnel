@@ -1,0 +1,204 @@
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/appsettings.Development.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/appsettings.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/API.exe
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/API.deps.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/API.runtimeconfig.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/API.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/ref/API.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/API.pdb
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Humanizer.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.csproj.CopyComplete
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/ref/API.dll
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.pdb
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00086714.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00086863.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00086904.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00087049.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00087067.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00087105.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00087106.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00087146.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00087265.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00087268.json
+D:/FONTAINEKE/My Documents/Project/Simplon_Entrainement/API/bin/Debug/net5.0/Json/00087273.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.csprojAssemblyReference.cache
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.AssemblyInfo.cs
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/ref/API.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.pdb
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/appsettings.Development.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/appsettings.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00086714.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00086863.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00086904.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00087049.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00087067.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00087105.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00087106.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00087146.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00087265.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00087268.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Json/00087273.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/API.exe
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/API.deps.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/API.runtimeconfig.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/API.runtimeconfig.dev.json
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/API.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/ref/API.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/API.pdb
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Humanizer.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Microsoft.OpenApi.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.csproj.CopyComplete
+A:/Projets/Sites/Simplon/Boulogne/SimplonBoulogne/obj/Debug/net5.0/API.genruntimeconfig.cache
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/appsettings.Development.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/appsettings.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00086714.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00086863.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00086904.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00087049.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00087067.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00087105.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00087106.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00087146.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00087265.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00087268.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Json/00087273.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/API.deps.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/API.runtimeconfig.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/API.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/ref/API.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/API.pdb
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Humanizer.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.csproj.CopyComplete
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.dll
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/ref/API.dll
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.pdb
+/Applications/MAMP/htdocs/eurotunnel/obj/Debug/net5.0/API.genruntimeconfig.cache
+/Applications/MAMP/htdocs/eurotunnel/bin/Debug/net5.0/Newtonsoft.Json.dll

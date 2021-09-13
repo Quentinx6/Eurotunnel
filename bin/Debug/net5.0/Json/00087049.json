@@ -1,0 +1,58 @@
+﻿{
+    "PERNR":  "00087049",
+    "ObjectSID":  "082562",
+    "Profile":  {
+                    "Name":  null,
+                    "Applied":  null
+                },
+    "Compliante_AD_SAP":  null,
+    "Compliante_AD_AAD":  null,
+    "Step_Date":  {
+                      "PreOnboarding":  null,
+                      "Onboarding":  null,
+                      "PreOffboarding":  null,
+                      "Offboarding":  "29/07/2021 01:53",
+                      "Delete":  null,
+                      "Restore":  null
+                  },
+    "Current_Step":  {
+                         "Name":  "Delete",
+                         "Step_Success":  false
+                     },
+    "Next_Step":  {
+                      "Name":  "Delete",
+                      "Date":  "28/08/2021 01:53"
+                  },
+    "Update":  {
+                   "Last_Update":  null,
+                   "Update_Id":  null
+               },
+    "Step_Alerting":  {
+                          "PreOnboarding":  null,
+                          "Onboarding":  null,
+                          "PreOffboardingJ30":  null,
+                          "PreOffboardingJ15":  null,
+                          "PreOffBoardingJ3":  null,
+                          "OffboardingJ0":  null,
+                          "OffboardingJ15":  null,
+                          "OffboardingJ27":  null,
+                          "Delete":  null,
+                          "Restore":  null
+                      },
+    "Exception":  {
+                      "Transfert_Process":  {
+                                                "Old_PERNR":  null,
+                                                "New_PERNR":  null,
+                                                "Date_To_Transfert":  null,
+                                                "Transfert_Success":  null
+                                            },
+                      "Exclude_Process":  {
+                                              "From_Date":  null,
+                                              "To_Date":  null
+                                          },
+                      "Disabled_Process":  {
+                                               "From_Date":  null,
+                                               "To_Date":  null
+                                           }
+                  }
+}
