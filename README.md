@@ -37,3 +37,9 @@ Possible de faire des requêtes également comme sur un POSTMAN.
 
 ## Note
 Le code de l'API est disponible et commenté.
+
+## Explication du pourquoi, du comment ?
+Utilisation de Rider de JetBrains pour coder en C#. 
+Api développer en C# en utilisant la bibliothèque newtonsoft pour la lecture des fichiers Json.
+Creéation d'une methode Get pour récupérer ce qu'on souhaite dans les fichiers Json
+puis création d'une méthode post pour relié ces données à la base de données.
